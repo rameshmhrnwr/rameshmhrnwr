@@ -1,0 +1,13 @@
+C:\Users\320177259\source\repos\PIC-Ramesh-Demo\bin\Debug\netcoreapp3.1\PIC-Ramesh-Demo.exe
+C:\Users\320177259\source\repos\PIC-Ramesh-Demo\bin\Debug\netcoreapp3.1\PIC-Ramesh-Demo.deps.json
+C:\Users\320177259\source\repos\PIC-Ramesh-Demo\bin\Debug\netcoreapp3.1\PIC-Ramesh-Demo.runtimeconfig.json
+C:\Users\320177259\source\repos\PIC-Ramesh-Demo\bin\Debug\netcoreapp3.1\PIC-Ramesh-Demo.runtimeconfig.dev.json
+C:\Users\320177259\source\repos\PIC-Ramesh-Demo\bin\Debug\netcoreapp3.1\PIC-Ramesh-Demo.dll
+C:\Users\320177259\source\repos\PIC-Ramesh-Demo\bin\Debug\netcoreapp3.1\PIC-Ramesh-Demo.pdb
+C:\Users\320177259\source\repos\PIC-Ramesh-Demo\obj\Debug\netcoreapp3.1\PIC-Ramesh-Demo.csprojAssemblyReference.cache
+C:\Users\320177259\source\repos\PIC-Ramesh-Demo\obj\Debug\netcoreapp3.1\PIC-Ramesh-Demo.AssemblyInfoInputs.cache
+C:\Users\320177259\source\repos\PIC-Ramesh-Demo\obj\Debug\netcoreapp3.1\PIC-Ramesh-Demo.AssemblyInfo.cs
+C:\Users\320177259\source\repos\PIC-Ramesh-Demo\obj\Debug\netcoreapp3.1\PIC-Ramesh-Demo.csproj.CoreCompileInputs.cache
+C:\Users\320177259\source\repos\PIC-Ramesh-Demo\obj\Debug\netcoreapp3.1\PIC-Ramesh-Demo.dll
+C:\Users\320177259\source\repos\PIC-Ramesh-Demo\obj\Debug\netcoreapp3.1\PIC-Ramesh-Demo.pdb
+C:\Users\320177259\source\repos\PIC-Ramesh-Demo\obj\Debug\netcoreapp3.1\PIC-Ramesh-Demo.genruntimeconfig.cache

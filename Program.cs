@@ -7,7 +7,7 @@ namespace PIC_Ramesh_Demo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.ReadKey();
+            Console1.ReadKey();
         }
     }
 }

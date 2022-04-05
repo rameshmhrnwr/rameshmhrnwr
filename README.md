@@ -1,4 +1,4 @@
-![Build](https://github.com/rameshmhrnwr/rameshmhrnwr/actions/workflows/build.yml/badge.svg)
+[![Actions Status](https://github.com/rameshmhrnwr/rameshmhrnwr/actions/workflows/build.yml/badge.svg)]
 
 "# rameshmhrnwr" 
 "# rameshmhrnwr" 
